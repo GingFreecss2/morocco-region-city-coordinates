@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Tanger",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.7595",
+        "longitude": "-5.8340"
+    },
+    {
+        "name": "Tétouan",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.5889",
+        "longitude": "-5.3626"
+    },
+    {
+        "name": "Al Hoceïma",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.2446",
+        "longitude": "-3.9317"
+    },
+    {
+        "name": "Ksar El Kébir",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.0035",
+        "longitude": "-5.9155"
+    },
+    {
+        "name": "Assilah",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.4646",
+        "longitude": "-6.0309"
+    },
+    {
+        "name": "Chefchaouen",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.1688",
+        "longitude": "-5.2684"
+    },
+    {
+        "name": "M'diq",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.6806",
+        "longitude": "-5.3233"
+    },
+    {
+        "name": "Martil",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.6196",
+        "longitude": "-5.2841"
+    },
+    {
+        "name": "Fnideq",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.8433",
+        "longitude": "-5.3610"
+    },
+    {
+        "name": "Larache",
+        "countryCode": "MA",
+        "stateCode": "01",
+        "latitude": "35.1744",
+        "longitude": "-6.1474"
+    },
+    {
+        "name": "Oujda",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "34.6820",
+        "longitude": "-1.9002"
+    },
+    {
+        "name": "Nador",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "35.1686",
+        "longitude": "-2.9276"
+    },
+    {
+        "name": "Berkane",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "34.9177",
+        "longitude": "-2.3123"
+    },
+    {
+        "name": "Taourirt",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "34.3984",
+        "longitude": "-2.8935"
+    },
+    {
+        "name": "Guercif",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "34.2299",
+        "longitude": "-3.3490"
+    },
+    {
+        "name": "Beni Ensar",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "35.2653",
+        "longitude": "-2.9322"
+    },
+    {
+        "name": "Al Aroui",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "35.0127",
+        "longitude": "-3.0076"
+    },
+    {
+        "name": "Jerada",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "34.3062",
+        "longitude": "-2.1794"
+    },
+    {
+        "name": "El Aïoun Sidi Mellouk",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "34.5825",
+        "longitude": "-2.5099"
+    },
+    {
+        "name": "Saïdia",
+        "countryCode": "MA",
+        "stateCode": "02",
+        "latitude": "35.0999",
+        "longitude": "-2.2877"
+    },
+    {
+        "name": "Fès",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "34.0181",
+        "longitude": "-5.0078"
+    },
+    {
+        "name": "Meknès",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "33.8730",
+        "longitude": "-5.5407"
+    },
+    {
+        "name": "Taza",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "34.2106",
+        "longitude": "-3.9980"
+    },
+    {
+        "name": "Moulay Driss Zerhoun",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "34.0559",
+        "longitude": "-5.5211"
+    },
+    {
+        "name": "Séfrou",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "33.8305",
+        "longitude": "-4.8353"
+    },
+    {
+        "name": "Azrou",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "33.4347",
+        "longitude": "-5.2319"
+    },
+    {
+        "name": "Taounate",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "34.5369",
+        "longitude": "-4.6399"
+    },
+    {
+        "name": "El Hajeb",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "33.6857",
+        "longitude": "-5.3678"
+    },
+    {
+        "name": "Ifrane",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "33.5228",
+        "longitude": "-5.1110"
+    },
+    {
+        "name": "Boulemane",
+        "countryCode": "MA",
+        "stateCode": "03",
+        "latitude": "33.3625",
+        "longitude": "-4.7303"
+    },
+    {
+        "name": "Rabat",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "33.9716",
+        "longitude": "-6.8498"
+    },
+    {
+        "name": "Salé",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "34.0337",
+        "longitude": "-6.7708"
+    },
+    {
+        "name": "Kénitra",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "34.2541",
+        "longitude": "-6.5890"
+    },
+    {
+        "name": "Témara",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "33.9203",
+        "longitude": "-6.9274"
+    },
+    {
+        "name": "Khémisset",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "33.8154",
+        "longitude": "-6.0537"
+    },
+    {
+        "name": "Sidi Slimane",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "34.2623",
+        "longitude": "-5.9240"
+    },
+    {
+        "name": "Tiflet",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "33.8955",
+        "longitude": "-6.3207"
+    },
+    {
+        "name": "Skhirat",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "33.8509",
+        "longitude": "-7.0606"
+    },
+    {
+        "name": "Mehdia",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "34.2563",
+        "longitude": "-6.6758"
+    },
+    {
+        "name": "Touarga",
+        "countryCode": "MA",
+        "stateCode": "04",
+        "latitude": "34.0032",
+        "longitude": "-6.8384"
+    },
+    {
+        "name": "Béni Mellal",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "32.3424",
+        "longitude": "-6.3758"
+    },
+    {
+        "name": "Khénifra",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "32.9340",
+        "longitude": "-5.6616"
+    },
+    {
+        "name": "Khouribga",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "32.8860",
+        "longitude": "-6.9209"
+    },
+    {
+        "name": "Fkih Ben Saleh",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "32.5009",
+        "longitude": "-6.6905"
+    },
+    {
+        "name": "Kasba Tadla",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "32.5958",
+        "longitude": "-6.2695"
+    },
+    {
+        "name": "Zaouïat Cheikh",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "32.6439",
+        "longitude": "-5.9172"
+    },
+    {
+        "name": "Bejaâd",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "32.7692",
+        "longitude": "-6.3932"
+    },
+    {
+        "name": "Oued Zem",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "32.8502",
+        "longitude": "-6.5775"
+    },
+    {
+        "name": "Azilal",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "31.9649",
+        "longitude": "-6.5730"
+    },
+    {
+        "name": "Demnate",
+        "countryCode": "MA",
+        "stateCode": "05",
+        "latitude": "31.7321",
+        "longitude": "-7.0115"
+    },
+    {
+        "name": "Casablanca",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "33.5731",
+        "longitude": "-7.5898"
+    },
+    {
+        "name": "Settat",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "32.9924",
+        "longitude": "-7.6223"
+    },
+    {
+        "name": "Mohammédia",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "33.6835",
+        "longitude": "-7.3849"
+    },
+    {
+        "name": "El Jadida",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "33.2316",
+        "longitude": "-8.5007"
+    },
+    {
+        "name": "Berrechid",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "33.2687",
+        "longitude": "-7.5843"
+    },
+    {
+        "name": "Bouskoura",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "33.4498",
+        "longitude": "-7.6331"
+    },
+    {
+        "name": "Bouznika",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "33.7734",
+        "longitude": "-7.1599"
+    },
+    {
+        "name": "Azemmour",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "33.2867",
+        "longitude": "-8.3472"
+    },
+    {
+        "name": "Benslimane",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "33.6190",
+        "longitude": "-7.1306"
+    },
+    {
+        "name": "Zemamra",
+        "countryCode": "MA",
+        "stateCode": "06",
+        "latitude": "32.6243",
+        "longitude": "-8.7095"
+    },
+    {
+        "name": "Marrakesh",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "31.6295",
+        "longitude": "-7.9811"
+    },
+    {
+        "name": "Safi",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "32.3008",
+        "longitude": "-9.2272"
+    },
+    {
+        "name": "Essaouira",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "31.5085",
+        "longitude": "-9.7595"
+    },
+    {
+        "name": "Ben Guerir",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "32.2359",
+        "longitude": "-7.9538"
+    },
+    {
+        "name": "Imintanoute",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "31.1720",
+        "longitude": "-8.8458"
+    },
+    {
+        "name": "El Kelaâ des Sraghna",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "32.0551",
+        "longitude": "-7.4003"
+    },
+    {
+        "name": "Youssoufia",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "32.2438",
+        "longitude": "-8.5227"
+    },
+    {
+        "name": "Chichaoua",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "31.5384",
+        "longitude": "-8.7646"
+    },
+    {
+        "name": "Aït Ourir",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "31.5634",
+        "longitude": "-7.6711"
+    },
+    {
+        "name": "Echemmaia",
+        "countryCode": "MA",
+        "stateCode": "07",
+        "latitude": "32.0895",
+        "longitude": "-8.6074"
+    },
+    {
+        "name": "Ouarzazate",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "30.9335",
+        "longitude": "-6.9370"
+    },
+    {
+        "name": "Errachidia",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "31.9272",
+        "longitude": "-4.4285"
+    },
+    {
+        "name": "Zagora",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "30.3459",
+        "longitude": "-5.8407"
+    },
+    {
+        "name": "Midelt",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "32.6799",
+        "longitude": "-4.7329"
+    },
+    {
+        "name": "Tinghir",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "31.5205",
+        "longitude": "-5.5302"
+    },
+    {
+        "name": "Arfoud",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "31.4366",
+        "longitude": "-4.2344"
+    },
+    {
+        "name": "Merzouga",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "31.0802",
+        "longitude": "-4.0134"
+    },
+    {
+        "name": "Moulay Ali Cherif",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "31.2798",
+        "longitude": "-4.2590"
+    },
+    {
+        "name": "Kelaat-M’Gouna",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "31.2371",
+        "longitude": "-6.1262"
+    },
+    {
+        "name": "Goulmima",
+        "countryCode": "MA",
+        "stateCode": "08",
+        "latitude": "31.6892",
+        "longitude": "-4.9575"
+    },
+    {
+        "name": "Agadir",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "30.4278",
+        "longitude": "-9.5981"
+    },
+    {
+        "name": "Ait Melloul",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "30.3379",
+        "longitude": "-9.5040"
+    },
+    {
+        "name": "Inzeggane",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "30.3523",
+        "longitude": "-9.5515"
+    },
+    {
+        "name": "Dcheira El Jihadia",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "30.3694",
+        "longitude": "-9.5284"
+    },
+    {
+        "name": "Taroudant",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "30.4727",
+        "longitude": "-8.8749"
+    },
+    {
+        "name": "Tiznit",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "29.6934",
+        "longitude": "-9.7322"
+    },
+    {
+        "name": "Biougra",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "30.2207",
+        "longitude": "-9.3729"
+    },
+    {
+        "name": "Tafraout",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "29.7182",
+        "longitude": "-8.9770"
+    },
+    {
+        "name": "Aït Baha",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "30.0689",
+        "longitude": "-9.1525"
+    },
+    {
+        "name": "Temsia",
+        "countryCode": "MA",
+        "stateCode": "09",
+        "latitude": "30.3691",
+        "longitude": "-9.4145"
+    },
+    {
+        "name": "Guelmim",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "28.9884",
+        "longitude": "-10.0527"
+    },
+    {
+        "name": "Tan-Tan",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "28.4380",
+        "longitude": "-11.0987"
+    },
+    {
+        "name": "Sidi Ifni",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "29.3701",
+        "longitude": "-10.1759"
+    },
+    {
+        "name": "Assa",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "28.6089",
+        "longitude": "-9.4367"
+    },
+    {
+        "name": "Bouizakarne",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "29.1779",
+        "longitude": "-9.7093"
+    },
+    {
+        "name": "Zag",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "28.0251",
+        "longitude": "-9.2952"
+    },
+    {
+        "name": "Lakhsas",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "29.3631",
+        "longitude": "-9.7525"
+    },
+    {
+        "name": "Legzira",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "29.4464",
+        "longitude": "-10.1126"
+    },
+    {
+        "name": "Mirleft",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "29.5791",
+        "longitude": "-10.0351"
+    },
+    {
+        "name": "Plage Blanche",
+        "countryCode": "MA",
+        "stateCode": "10",
+        "latitude": "28.8700",
+        "longitude": "-10.7800"
+    },
+    {
+        "name": "Laâyoune",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "27.1500",
+        "longitude": "-13.1991"
+    },
+    {
+        "name": "Boujdour",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "26.1252",
+        "longitude": "-14.4847"
+    },
+    {
+        "name": "Es-Semara",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "26.7419",
+        "longitude": "-11.9784"
+    },
+    {
+        "name": "Tarfaya",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "27.9375",
+        "longitude": "-12.9263"
+    },
+    {
+        "name": "El Marsa",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "27.0670",
+        "longitude": "-13.4187"
+    },
+    {
+        "name": "Gueltat Zemmour",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "25.1434",
+        "longitude": "-12.3714"
+    },
+    {
+        "name": "Lamsid",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "26.5410",
+        "longitude": "-13.8403"
+    },
+    {
+        "name": "Amgala",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "26.2792",
+        "longitude": "-11.1331"
+    },
+    {
+        "name": "Tifariti",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "26.2178",
+        "longitude": "-10.5751"
+    },
+    {
+        "name": "El Hagounia",
+        "countryCode": "MA",
+        "stateCode": "11",
+        "latitude": "27.4302",
+        "longitude": "-12.3892"
+    },
+    {
+        "name": "Dakhla",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "23.7245",
+        "longitude": "-15.9339"
+    },
+    {
+        "name": "Lagouira",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "20.7967",
+        "longitude": "-17.1978"
+    },
+    {
+        "name": "Bir Anzarane",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "23.9771",
+        "longitude": "-14.4860"
+    },
+    {
+        "name": "El Argoub",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "23.6055",
+        "longitude": "-15.8668"
+    },
+    {
+        "name": "Guerguerat",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "21.4268",
+        "longitude": "-16.9608"
+    },
+    {
+        "name": "Oum Dreyga",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "24.1175",
+        "longitude": "-13.3057"
+    },
+    {
+        "name": "Imlili",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "23.2348",
+        "longitude": "-16.0782"
+    },
+    {
+        "name": "Bir Gandouz",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "22.1120",
+        "longitude": "-16.7712"
+    },
+    {
+        "name": "Aousserd",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "22.6504",
+        "longitude": "-14.3267"
+    },
+    {
+        "name": "Tichla",
+        "countryCode": "MA",
+        "stateCode": "12",
+        "latitude": "21.6226",
+        "longitude": "-14.9639"
+    }
+]

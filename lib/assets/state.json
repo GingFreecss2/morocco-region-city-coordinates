@@ -1,0 +1,87 @@
+[
+    {
+            "name": "Tanger-Tétouan-Al Hoceïma",
+            "isoCode": "01",
+            "countryCode": "MA",
+            "latitude": "35.26295580",
+            "longitude": "-5.56172790"
+        },
+        {
+            "name": "L'Oriental",
+            "isoCode": "02",
+            "countryCode": "MA",
+            "latitude": "37.06968300",
+            "longitude": "-94.51227700"
+        },
+        {
+            "name": "Fès-Meknès",
+            "isoCode": "03",
+            "countryCode": "MA",
+            "latitude": "34.06252900",
+            "longitude": "-4.72775280"
+        },
+        {
+            "name": "Rabat-Salé-Kénitra",
+            "isoCode": "04",
+            "countryCode": "MA",
+            "latitude": "34.07686400",
+            "longitude": "-7.34544760"
+        },
+        {
+            "name": "Béni Mellal-Khénifra",
+            "isoCode": "05",
+            "countryCode": "MA",
+            "latitude": "32.57191840",
+            "longitude": "-6.06791940"
+        },
+        {
+            "name": "Casablanca-Settat",
+            "isoCode": "06",
+            "countryCode": "MA",
+            "latitude": "33.21608720",
+            "longitude": "-7.43813550"
+        },
+        {
+            "name": "Marrakesh-Safi",
+            "isoCode": "07",
+            "countryCode": "MA",
+            "latitude": "31.73308330",
+            "longitude": "-8.13385580"
+        },
+        {
+            "name": "Drâa-Tafilalet",
+            "isoCode": "08",
+            "countryCode": "MA",
+            "latitude": "31.14995380",
+            "longitude": "-5.39395510"
+        },
+        {
+            "name": "Souss-Massa",
+            "isoCode": "09",
+            "countryCode": "MA",
+            "latitude": "30.27506110",
+            "longitude": "-8.13385580"
+        },
+        {
+            "name": "Guelmim-Oued Noun",
+            "isoCode": "10",
+            "countryCode": "MA",
+            "latitude": "28.48442810",
+            "longitude": "-10.08072980"
+        },
+        {
+            "name": "Laâyoune-Sakia El Hamra",
+            "isoCode": "11",
+            "countryCode": "MA",
+            "latitude": "27.86831940",
+            "longitude": "-11.98046130"
+        },
+        {
+            "name": "Dakhla-Oued Ed-Dahab",
+            "isoCode": "12",
+            "countryCode": "MA",
+            "latitude": "22.73378920",
+            "longitude": "-14.28611160"
+        }
+    ]
+    

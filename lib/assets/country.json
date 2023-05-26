@@ -1,0 +1,21 @@
+[
+    {
+            "name": "Morocco",
+            "isoCode": "MA",
+            "flag": "🇲🇦",
+            "phonecode": "212",
+            "currency": "MAD",
+            "latitude": "32.00000000",
+            "longitude": "-5.00000000",
+            "timezones": [
+                {
+                    "zoneName": "Africa/Casablanca",
+                    "gmtOffset": 3600,
+                    "gmtOffsetName": "UTC+01:00",
+                    "abbreviation": "WEST",
+                    "tzName": "Western European Summer Time"
+                }
+            ]
+        }
+    ]
+    
