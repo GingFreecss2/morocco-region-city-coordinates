@@ -1,6 +1,6 @@
 {
 	"name": "morocco-region-city-coordinates",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A list of Moroccan cities with their respective coordinates",
 	"main": "./lib/cjs/index.js",
 	"module": "./lib/index.js",
@@ -11,9 +11,9 @@
 		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
 		"prepublish": "npm run build",
 		"lint": "eslint index.ts __test__ --fix",
-		"split-data":"ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
-		"update-data":"ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
-		"update-data-with-gz":"gz=true ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts"
+		"split-data": "ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
+		"update-data": "ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
+		"update-data-with-gz": "gz=true ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts"
 	},
 	"author": "LAASRI Mohamed",
 	"license": "ISC",
